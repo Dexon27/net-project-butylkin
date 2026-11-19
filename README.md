@@ -58,8 +58,7 @@ Server: BYE
 
 ## Скриншоты
 
-![Работа программы](screenshots/work.png)
-![netstat](screenshots/netstat.png)
+Есть в папке репозитория
 
 ## Ответы на контрольные вопросы
 
